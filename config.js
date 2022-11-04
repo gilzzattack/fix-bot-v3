@@ -67,10 +67,10 @@ global.ppulsa2 = '081357580863' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/gilzzbotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281357580863'
-global.nomorown = '6285730794089'
-global.namebot = 'Gilzz-V1'
-global.nameown = 'GILZZ DEV'
+global.nomorbot = '6281247082169'
+global.nomorown = '6289509580454'
+global.namebot = 'Noname-V1'
+global.nameown = 'NONAME'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'gilzzbotz' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285730794089', 'Gilzz XD', true],
+  ['6289509580454', 'NONAME', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 GILZZ XD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘GILZZ XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ GILZZ - V1 '
+global.wm = '                「 NONAME BOTZ」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NONAME BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ NONAME - V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By GILZZ-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By NONAME`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 GILZZ XD  あ」'
+global.author = '                「 NONAME あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'GILZZ XD'
-global.stickauth = `By ©Gilzz XD`
+global.stickpack = 'Noname'
+global.stickauth = `By ©Noname`
 
 global.multiplier = 38 // The higher, The harder levelup
 
